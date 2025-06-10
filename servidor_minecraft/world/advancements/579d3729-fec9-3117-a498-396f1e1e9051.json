@@ -6741,9 +6741,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_black2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-10 23:52:54 +0000"
     },
     "done": true
   },
@@ -6762,6 +6780,12 @@
   "connectedglass:recipes/misc/borderless_glass_light_blue2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
     },
     "done": true
   },
@@ -6795,6 +6819,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_white2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:47 +0000"
@@ -6807,15 +6843,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_brown2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-10 23:51:58 +0000"
     },
     "done": true
   },
@@ -6831,9 +6885,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass1": {
     "criteria": {
       "recipe_condition": "2025-06-10 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-10 23:51:58 +0000"
     },
     "done": true
   },
@@ -6849,6 +6915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-10 23:46:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 23:20:43 +0000"
@@ -6858,6 +6930,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-06-10 22:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
     },
     "done": true
   },
@@ -6897,6 +6975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-06-10 22:47:53 +0000"
@@ -6909,9 +6993,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-10 23:02:51 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-10 23:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-10 23:51:58 +0000"
     },
     "done": true
   },
@@ -6921,9 +7035,33 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-06-10 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
     },
     "done": true
   },
@@ -6957,6 +7095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 23:20:43 +0000"
@@ -6981,6 +7125,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 23:20:43 +0000"
@@ -6990,6 +7140,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-10 23:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
     },
     "done": true
   },
@@ -7047,6 +7203,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-06-10 23:46:49 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_magenta2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:51 +0000"
@@ -7059,6 +7221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 23:20:43 +0000"
@@ -7068,6 +7236,12 @@
   "connectedglass:recipes/misc/borderless_glass_lime2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-06-10 23:51:58 +0000"
     },
     "done": true
   },
@@ -7179,9 +7353,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-06-10 23:51:58 +0000"
+    },
+    "done": true
+  },
   "dramaticdoors:recipes/redstone/tall_macaw_dark_oak_glass_door": {
     "criteria": {
       "has_items": "2025-06-10 23:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-10 23:51:37 +0000"
     },
     "done": true
   },
@@ -7194,6 +7392,12 @@
   "connectedglass:recipes/misc/clear_glass_purple2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-10 23:51:58 +0000"
     },
     "done": true
   },
