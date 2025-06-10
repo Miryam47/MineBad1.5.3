@@ -1741,3 +1741,18 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 [21:28:04] [Server thread/INFO]: [badbalta: Killed badbalta]
 [21:32:30] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [21:33:07] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:35:18] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[21:40:21] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[21:41:13] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[21:42:29] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[21:42:31] [Server thread/INFO]: SimonPro74 fell from a high place
+[21:42:32] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[21:42:45] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[21:42:58] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[21:42:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:43:14] [Server thread/INFO]: badbalta was killed
+[21:43:14] [Server thread/INFO]: [badbalta: Killed badbalta]
