@@ -7489,6 +7489,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_spruce_door": {
+    "criteria": {
+      "has_items": "2025-06-10 23:10:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 22:15:38 +0000"
@@ -7634,6 +7640,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/tall_spruce_door": {
+    "criteria": {
+      "has_items": "2025-06-10 23:10:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 22:15:38 +0000"
@@ -7667,6 +7679,12 @@
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2025-06-10 21:58:15 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_spruce_door_sawmill": {
+    "criteria": {
+      "has_items": "2025-06-10 23:10:37 +0000"
     },
     "done": true
   },

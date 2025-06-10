@@ -1957,3 +1957,75 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 [22:59:40] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 1940.500000, 70.000000, -8350.500000]
 [23:02:20] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
 [23:03:32] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 1940.500000, 70.000000, -8350.500000]
+[23:08:05] [Worker-Main-11/ERROR]: Couldn't load structure mvs:houses/deepslate_house
+net.minecraft.class_8911: Loading NBT data
+	at net.minecraft.class_2487.method_10581(class_2487.java:526) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_53895(class_2499.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23249(class_2499.java:31) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23262(class_2499.java:26) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:520) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_52892(class_2507.java:185) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10626(class_2507.java:180) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10625(class_2507.java:105) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10629(class_2507.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15090(class_3485.java:228) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44231(class_3485.java:218) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15088(class_3485.java:131) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44245(class_3485.java:109) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
+	at net.minecraft.class_3485.method_15094(class_3485.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15091(class_3485.java:87) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3781.method_27233(class_3781.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3781.method_16628(class_3781.java:125) ~[server-intermediary.jar:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mvs-4.1.2-1.20-fabric.jar:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.method_38676(GenericJigsawStructure.java:213) ~[mvs-4.1.2-1.20-fabric.jar:?]
+	at net.minecraft.class_3195.method_47932(class_3195.java:199) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3195.method_41614(class_3195.java:125) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_41044(class_2794.java:513) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_41041(class_2794.java:466) ~[server-intermediary.jar:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.class_2794.method_16129(class_2794.java:448) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_39464(class_2806.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(class_3898.java:671) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(class_3898.java:660) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 14
+	at net.minecraft.class_4614$1.method_39878(class_4614.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23264(class_4614.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23262(class_4614.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:520) ~[server-intermediary.jar:?]
+	... 49 more
+[23:09:58] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[23:09:58] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[23:09:58] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[23:09:58] [Worker-Main-12/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[23:11:07] [Server thread/INFO]: Villager class_1646['Armorer'/101578, l='ServerLevel[world]', x=2299.25, y=-65.00, z=-7807.72] died, message: 'Armorer was killed'
+[23:11:11] [Server thread/INFO]: Villager class_1646['Fisherman'/101717, l='ServerLevel[world]', x=2299.27, y=-65.00, z=-7791.73] died, message: 'Fisherman was killed'
+[23:11:11] [Server thread/INFO]: Villager class_1646['Toolsmith'/101721, l='ServerLevel[world]', x=2296.16, y=-65.00, z=-7786.41] died, message: 'Toolsmith was killed'
+[23:11:11] [Server thread/INFO]: Villager class_1646['Shepherd'/101722, l='ServerLevel[world]', x=2294.50, y=-65.00, z=-7784.70] died, message: 'Shepherd was killed'
+[23:11:11] [Server thread/INFO]: Villager class_1646['Librarian'/101723, l='ServerLevel[world]', x=2297.46, y=-65.00, z=-7786.24] died, message: 'Librarian was killed'
+[23:11:36] [Server thread/INFO]: Villager class_1646['Fisherman'/102463, l='ServerLevel[world]', x=2320.99, y=-65.00, z=-7788.93] died, message: 'Fisherman was killed'
+[23:11:43] [Server thread/INFO]: Villager class_1646['Farmer'/102667, l='ServerLevel[world]', x=2303.49, y=-65.00, z=-7763.70] died, message: 'Farmer was killed'
+[23:11:43] [Server thread/INFO]: Villager class_1646['Farmer'/102668, l='ServerLevel[world]', x=2303.49, y=-65.00, z=-7763.30] died, message: 'Farmer was killed'
+[23:11:43] [Server thread/INFO]: Villager class_1646['Farmer'/102666, l='ServerLevel[world]', x=2299.30, y=-65.00, z=-7767.50] died, message: 'Farmer was killed'
+[23:11:44] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
