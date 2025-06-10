@@ -2029,3 +2029,10 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [23:11:43] [Server thread/INFO]: Villager class_1646['Farmer'/102668, l='ServerLevel[world]', x=2303.49, y=-65.00, z=-7763.30] died, message: 'Farmer was killed'
 [23:11:43] [Server thread/INFO]: Villager class_1646['Farmer'/102666, l='ServerLevel[world]', x=2299.30, y=-65.00, z=-7767.50] died, message: 'Farmer was killed'
 [23:11:44] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
+[23:30:05] [Server thread/INFO]: SimonPro74 was killed
+[23:30:05] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[23:30:20] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[23:30:28] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
+[23:30:34] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[23:30:40] [Server thread/INFO]: badbalta was killed
+[23:30:40] [Server thread/INFO]: [badbalta: Killed badbalta]
