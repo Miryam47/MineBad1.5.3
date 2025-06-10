@@ -6217,6 +6217,138 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-10 21:12:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
@@ -6253,51 +6385,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-06-10 21:12:18 +0000"
     },
     "done": true
   },
@@ -6343,18 +6439,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_paper": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
@@ -6364,12 +6448,6 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
     },
     "done": true
   },
@@ -6397,12 +6475,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
@@ -6424,12 +6496,6 @@
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-06-10 21:13:16 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
     },
     "done": true
   },
@@ -6460,18 +6526,6 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-06-10 21:12:18 +0000"
     },
     "done": true
   },
@@ -6511,12 +6565,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/birch_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
@@ -6526,18 +6574,6 @@
   "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-10 21:14:12 +0000"
     },
     "done": true
   },
@@ -6559,21 +6595,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
     },
     "done": true
   },
@@ -6601,39 +6625,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
     },
     "done": true
   },
@@ -6661,12 +6661,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-06-10 21:12:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-10 21:13:16 +0000"
@@ -6676,6 +6670,12 @@
   "mcwpaths:recipes/sandstone": {
     "criteria": {
       "has_wood": "2025-06-10 21:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-10 21:14:12 +0000"
     },
     "done": true
   },

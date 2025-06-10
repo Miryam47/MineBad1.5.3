@@ -1737,3 +1737,7 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 [21:24:02] [Server thread/INFO]: badbalta[/100.112.194.79:51534] logged in with entity id 25268 at (445.4227506702682, 64.0, -8758.233510731396)
 [21:24:02] [Server thread/INFO]: Loading config from file...
 [21:24:02] [Server thread/INFO]: badbalta joined the game
+[21:28:04] [Server thread/INFO]: badbalta was killed
+[21:28:04] [Server thread/INFO]: [badbalta: Killed badbalta]
+[21:32:30] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:33:07] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
