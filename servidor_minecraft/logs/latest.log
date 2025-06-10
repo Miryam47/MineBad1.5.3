@@ -1728,3 +1728,12 @@ com.google.gson.JsonParseException: Map entry '#' : No key tag in MapLike[{"item
 [21:12:48] [Server thread/INFO]: SimonPro74 tried to swim in lava
 [21:13:29] [Server thread/INFO]: SimonPro74 lost connection: Timed out
 [21:13:29] [Server thread/INFO]: SimonPro74 left the game
+[21:21:05] [Server thread/INFO]: SimonPro74[/100.90.218.55:49711] logged in with entity id 22580 at (737.2733825566753, 100.0, -8299.16899406175)
+[21:21:05] [Server thread/INFO]: Loading config from file...
+[21:21:05] [Server thread/INFO]: SimonPro74 joined the game
+[21:22:33] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[21:23:23] [Server thread/INFO]: badbalta lost connection: Disconnected
+[21:23:23] [Server thread/INFO]: badbalta left the game
+[21:24:02] [Server thread/INFO]: badbalta[/100.112.194.79:51534] logged in with entity id 25268 at (445.4227506702682, 64.0, -8758.233510731396)
+[21:24:02] [Server thread/INFO]: Loading config from file...
+[21:24:02] [Server thread/INFO]: badbalta joined the game
