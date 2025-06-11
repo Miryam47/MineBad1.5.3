@@ -7521,6 +7521,12 @@
     },
     "done": true
   },
+  "chipped:recipes/workbench/mason_table": {
+    "criteria": {
+      "has_item": "2025-06-11 06:22:30 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/birch": {
     "criteria": {
       "has_wood": "2025-06-11 05:29:56 +0000"
@@ -7545,6 +7551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-11 06:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-06-11 05:24:39 +0000"
@@ -7563,6 +7575,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-11 06:21:54 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/misc/chisel": {
+    "criteria": {
+      "has_chisel": "2025-06-11 06:22:30 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-11 05:29:56 +0000"
@@ -7572,6 +7596,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-11 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-11 06:21:54 +0000"
     },
     "done": true
   },
