@@ -6849,6 +6849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:11:19 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2025-06-10 23:13:51 +0000"
