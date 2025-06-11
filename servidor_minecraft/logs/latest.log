@@ -820,3 +820,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:37:33] [Server thread/INFO]: Villager class_1646['Fisherman'/18124, l='ServerLevel[world]', x=1736.01, y=-65.00, z=-8666.07] died, message: 'Fisherman was killed'
 [23:37:36] [Server thread/INFO]: Villager class_1646['Armorer'/18163, l='ServerLevel[world]', x=1752.72, y=-65.00, z=-8666.75] died, message: 'Armorer was killed'
 [23:38:15] [Server thread/INFO]: SimonPro74 fell from a high place
+[23:39:32] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[23:39:32] [Server thread/INFO]: SimonPro74 left the game
