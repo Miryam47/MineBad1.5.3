@@ -7521,6 +7521,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-06-11 05:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-06-11 05:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-06-11 04:07:52 +0000"
