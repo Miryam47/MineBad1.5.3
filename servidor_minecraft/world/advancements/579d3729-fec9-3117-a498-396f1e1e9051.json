@@ -7630,6 +7630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-11 19:33:02 +0000"
@@ -7684,6 +7690,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_shingles_stonecutting": {
     "criteria": {
       "has_quartz_shingles": "2025-06-11 19:22:37 +0000"
@@ -7732,9 +7750,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_tiles_stonecutting": {
     "criteria": {
       "has_quartz_tiles": "2025-06-11 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/smooth_quartz_elevator_from_smooth_quartz": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
     },
     "done": true
   },
