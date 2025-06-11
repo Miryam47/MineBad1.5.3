@@ -7618,6 +7618,78 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_quartz_wall_from_polished_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_quartz": "2025-06-11 19:22:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_pavers_stonecutting": {
+    "criteria": {
+      "has_quartz_pavers": "2025-06-11 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_cobbled_quartz_stonecutting": {
+    "criteria": {
+      "has_cobbled_quartz": "2025-06-11 19:22:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_slab_from_quartz_plates_stonecutting": {
+    "criteria": {
+      "has_quartz_plates": "2025-06-11 19:22:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_stairs_from_quartz_pavers_stonecutting": {
+    "criteria": {
+      "has_quartz_pavers": "2025-06-11 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_stairs_from_polished_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_quartz": "2025-06-11 19:22:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_slab_from_cobbled_quartz_stonecutting": {
+    "criteria": {
+      "has_cobbled_quartz": "2025-06-11 19:22:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_wall_from_quartz_pavers_stonecutting": {
+    "criteria": {
+      "has_quartz_pavers": "2025-06-11 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_slab_from_quartz_shingles_stonecutting": {
+    "criteria": {
+      "has_quartz_shingles": "2025-06-11 19:22:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_shingles_stonecutting": {
+    "criteria": {
+      "has_quartz_shingles": "2025-06-11 19:22:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_stairs_from_cobbled_quartz_stonecutting": {
+    "criteria": {
+      "has_cobbled_quartz": "2025-06-11 19:22:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_tiles_stonecutting": {
+    "criteria": {
+      "has_quartz_tiles": "2025-06-11 19:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-06-11 18:51:35 +0000"
@@ -7630,9 +7702,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/quartz_shingle_wall_from_quartz_shingles_stonecutting": {
+    "criteria": {
+      "has_quartz_shingles": "2025-06-11 19:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-06-11 18:57:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_slab_from_polished_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_quartz": "2025-06-11 19:22:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_tiles_stonecutting": {
+    "criteria": {
+      "has_quartz_tiles": "2025-06-11 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_tiles_stonecutting": {
+    "criteria": {
+      "has_quartz_tiles": "2025-06-11 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_wall_from_quartz_plates_stonecutting": {
+    "criteria": {
+      "has_quartz_plates": "2025-06-11 19:22:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_stairs_from_quartz_plates_stonecutting": {
+    "criteria": {
+      "has_quartz_plates": "2025-06-11 19:22:35 +0000"
     },
     "done": true
   },
