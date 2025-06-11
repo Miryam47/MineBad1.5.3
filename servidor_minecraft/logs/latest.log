@@ -815,3 +815,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:00:43] [Server thread/INFO]: badbalta was killed
 [23:00:43] [Server thread/INFO]: [badbalta: Killed badbalta]
 [23:13:53] [Server thread/INFO]: badbalta fell from a high place
+[23:36:47] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:37:33] [Server thread/INFO]: Villager class_1646['Armorer'/18118, l='ServerLevel[world]', x=1731.75, y=-65.00, z=-8647.28] died, message: 'Armorer was killed'
+[23:37:33] [Server thread/INFO]: Villager class_1646['Fisherman'/18124, l='ServerLevel[world]', x=1736.01, y=-65.00, z=-8666.07] died, message: 'Fisherman was killed'
+[23:37:36] [Server thread/INFO]: Villager class_1646['Armorer'/18163, l='ServerLevel[world]', x=1752.72, y=-65.00, z=-8666.75] died, message: 'Armorer was killed'
+[23:38:15] [Server thread/INFO]: SimonPro74 fell from a high place
