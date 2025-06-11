@@ -813,3 +813,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:04:15] [Server thread/INFO]: SimonPro74 was blown up by Creeper
 [18:09:28] [Server thread/INFO]: SimonPro74 fell from a high place
 [18:15:04] [Server thread/INFO]: SimonPro74 has completed the challenge [Return to Sender]
+[18:19:30] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[18:20:32] [Server thread/INFO]: SimonPro74 was doomed to fall
+[18:21:41] [Server thread/INFO]: SimonPro74 fell from a high place
+[18:24:39] [Server thread/INFO]: SimonPro74 was shot by Skeleton
