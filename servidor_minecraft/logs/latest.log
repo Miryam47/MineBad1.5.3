@@ -833,3 +833,18 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:42:38] [Server thread/INFO]: SimonPro74[/100.90.218.55:49797] logged in with entity id 21315 at (741.7624999880791, 100.0, -8290.535957707029)
 [18:42:38] [Server thread/INFO]: Loading config from file...
 [18:42:38] [Server thread/INFO]: SimonPro74 joined the game
+[19:00:11] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[19:00:11] [Server thread/INFO]: SimonPro74 left the game
+[19:00:26] [Server thread/INFO]: SimonPro74[/100.90.218.55:49829] logged in with entity id 26795 at (740.834953974803, 100.5625, -8294.751005951444)
+[19:00:26] [Server thread/INFO]: Loading config from file...
+[19:00:26] [Server thread/INFO]: SimonPro74 joined the game
+[19:01:26] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[19:01:26] [Server thread/INFO]: SimonPro74 left the game
+[19:01:26] [Server thread/WARN]: handleDisconnection() called twice
+[19:05:57] [Server thread/INFO]: SimonPro74[/100.90.218.55:64934] logged in with entity id 27630 at (735.7201196468222, 100.0, -8290.601223208614)
+[19:05:57] [Server thread/INFO]: Loading config from file...
+[19:05:57] [Server thread/INFO]: SimonPro74 joined the game
+[19:11:06] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[19:11:18] [Server thread/INFO]: badbalta was killed
+[19:11:18] [Server thread/INFO]: [badbalta: Killed badbalta]
+[19:12:47] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
