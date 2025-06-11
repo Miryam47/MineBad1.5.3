@@ -7678,6 +7678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-11 20:28:52 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-06-11 20:24:04 +0000"
@@ -7693,6 +7699,12 @@
   "stoneworks:recipes/building_blocks/cobbled_quartz_slab_from_cobbled_quartz_stonecutting": {
     "criteria": {
       "has_cobbled_quartz": "2025-06-11 19:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-11 20:28:18 +0000"
     },
     "done": true
   },
@@ -7717,6 +7729,18 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-11 20:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-06-11 20:28:18 +0000"
     },
     "done": true
   },
@@ -7753,6 +7777,12 @@
   "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_tiles_stonecutting": {
     "criteria": {
       "has_quartz_tiles": "2025-06-11 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-11 20:28:18 +0000"
     },
     "done": true
   },
@@ -7798,6 +7828,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-11 20:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-11 20:28:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-11 20:24:04 +0000"
@@ -7807,6 +7849,12 @@
   "quartzelv:recipes/building_blocks/smooth_quartz_elevator_from_smooth_quartz": {
     "criteria": {
       "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-11 20:28:18 +0000"
     },
     "done": true
   },
