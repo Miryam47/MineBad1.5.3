@@ -826,3 +826,10 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:31:13] [Server thread/INFO]: badbalta joined the game
 [18:32:11] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 721.500000, 100.000000, -8175.500000]
 [18:36:27] [Server thread/INFO]: SimonPro74 was shot by Skeleton
+[18:38:44] [Server thread/INFO]: SimonPro74 was doomed to fall
+[18:41:17] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[18:42:26] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[18:42:26] [Server thread/INFO]: SimonPro74 left the game
+[18:42:38] [Server thread/INFO]: SimonPro74[/100.90.218.55:49797] logged in with entity id 21315 at (741.7624999880791, 100.0, -8290.535957707029)
+[18:42:38] [Server thread/INFO]: Loading config from file...
+[18:42:38] [Server thread/INFO]: SimonPro74 joined the game

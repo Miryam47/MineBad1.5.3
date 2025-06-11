@@ -7815,12 +7815,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-06-11 18:29:26 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-11 17:55:03 +0000"
@@ -7863,39 +7857,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-06-11 17:55:06 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-06-11 17:55:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-06-11 18:29:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-11 17:55:03 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
-    "criteria": {
-      "has_blue_wool": "2025-06-11 17:55:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-06-11 17:55:06 +0000"
     },
     "done": true
   },
@@ -7917,12 +7887,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-06-11 18:35:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-11 17:55:03 +0000"
@@ -7935,21 +7899,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-11 17:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2025-06-11 17:55:06 +0000"
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
     "criteria": {
-      "killed_ghast": "2025-06-11 18:15:04 +0000"
+      "has_blue_wool": "2025-06-11 17:55:06 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
+  "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
-      "recipe_condition2": "2025-06-11 17:55:03 +0000"
+      "has_blue_wool": "2025-06-11 17:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-11 17:55:06 +0000"
     },
     "done": true
   },
@@ -7962,6 +7938,48 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_blue_wool": "2025-06-11 17:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-11 18:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-11 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-11 18:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-11 18:35:02 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_dark_oak_door": {
+    "criteria": {
+      "has_items": "2025-06-11 18:45:14 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_dark_oak_door_sawmill": {
+    "criteria": {
+      "has_items": "2025-06-11 18:45:14 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_dark_oak_door": {
+    "criteria": {
+      "has_items": "2025-06-11 18:45:14 +0000"
     },
     "done": true
   },
