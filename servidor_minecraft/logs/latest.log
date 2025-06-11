@@ -807,3 +807,11 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [02:55:31] [Server thread/INFO]: Loading config from file...
 [02:55:31] [Server thread/INFO]: badbalta joined the game
 [03:36:59] [Server thread/INFO]: badbalta fell from a high place
+[04:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[04:07:10] [Server thread/INFO]: badbalta lost connection: Timed out
+[04:07:10] [Server thread/INFO]: badbalta left the game
+[04:07:10] [Server thread/WARN]: handleDisconnection() called twice
+[04:07:22] [Server thread/INFO]: badbalta[/100.112.194.79:52506] logged in with entity id 11172 at (738.0710549218571, 95.0, -8292.927053452111)
+[04:07:22] [Server thread/INFO]: Loading config from file...
+[04:07:22] [Server thread/INFO]: badbalta joined the game
+[04:07:52] [Server thread/INFO]: badbalta has made the advancement [What a Deal!]
