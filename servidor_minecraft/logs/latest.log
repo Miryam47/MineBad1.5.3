@@ -806,3 +806,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [02:55:31] [Server thread/INFO]: badbalta[/100.112.194.79:51276] logged in with entity id 160 at (672.5038720687663, 137.0, -8690.583663522857)
 [02:55:31] [Server thread/INFO]: Loading config from file...
 [02:55:31] [Server thread/INFO]: badbalta joined the game
+[03:36:59] [Server thread/INFO]: badbalta fell from a high place
