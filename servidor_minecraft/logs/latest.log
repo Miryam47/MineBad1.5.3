@@ -822,3 +822,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:38:15] [Server thread/INFO]: SimonPro74 fell from a high place
 [23:39:32] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
 [23:39:32] [Server thread/INFO]: SimonPro74 left the game
+[23:52:42] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-162, y=-12, z=171}
+[23:53:43] [Server thread/INFO]: badbalta was blown up by Creeper
