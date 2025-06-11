@@ -7690,6 +7690,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/tall_macaw_store_door": {
+    "criteria": {
+      "has_items": "2025-06-11 19:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-06-11 19:41:47 +0000"
