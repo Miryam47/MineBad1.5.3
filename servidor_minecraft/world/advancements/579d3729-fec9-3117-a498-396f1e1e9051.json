@@ -7618,9 +7618,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-06-11 19:33:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_quartz_wall_from_polished_quartz_stonecutting": {
     "criteria": {
       "has_polished_quartz": "2025-06-11 19:22:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-11 19:33:02 +0000"
     },
     "done": true
   },
