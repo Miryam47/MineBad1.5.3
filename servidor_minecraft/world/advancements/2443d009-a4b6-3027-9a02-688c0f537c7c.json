@@ -7815,6 +7815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-11 18:29:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-11 17:55:03 +0000"
@@ -7869,6 +7875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-11 18:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-11 17:55:03 +0000"
@@ -7902,6 +7914,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-06-11 17:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-11 18:35:02 +0000"
     },
     "done": true
   },
