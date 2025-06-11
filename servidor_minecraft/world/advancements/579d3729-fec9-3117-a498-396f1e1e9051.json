@@ -7503,5 +7503,17 @@
     },
     "done": true
   },
+  "chipped:recipes/misc/saw": {
+    "criteria": {
+      "has_saw": "2025-06-11 03:10:10 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/workbench/carpenters_table": {
+    "criteria": {
+      "has_item": "2025-06-11 03:10:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
