@@ -819,3 +819,21 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05:23:23] [Server thread/WARN]: badbalta moved too quickly! -2.5138126324895893,-10.201788143051374,-0.4524335735313798
 [07:00:58] [Server thread/INFO]: badbalta was blown up by Creeper
 [07:01:41] [Server thread/INFO]: badbalta was slain by Zombie
+[07:13:02] [Server thread/INFO]: badbalta lost connection: Disconnected
+[07:13:02] [Server thread/INFO]: badbalta left the game
+[07:14:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:14:24] [Server thread/INFO]: STOP<--[HERE]
+[07:14:27] [Server thread/INFO]: Stopping the server
+[07:14:27] [Server thread/INFO]: Stopping server
+[07:14:27] [Server thread/INFO]: Saving players
+[07:14:27] [Server thread/INFO]: Saving worlds
+[07:14:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:14:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:14:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:14:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:14:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:14:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:14:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:14:27] [Server thread/INFO]: Unloading server config for barteringstation
+[07:14:27] [Server thread/INFO]: Unloading server config for hangglider
+[07:14:27] [Server thread/INFO]: Unloading server config for iteminteractions
