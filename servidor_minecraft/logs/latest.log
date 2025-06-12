@@ -907,3 +907,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:07:26] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=85, y=-10, z=34}
 [20:08:25] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 721.500000, 100.000000, -8175.500000]
 [20:08:39] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
+[20:16:12] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[20:16:12] [Server thread/INFO]: SimonPro74 left the game
+[20:24:52] [Server thread/INFO]: SimonPro74[/100.90.218.55:49924] logged in with entity id 23268 at (709.2305735639858, 90.0, -8302.303551383357)
+[20:24:52] [Server thread/INFO]: Loading config from file...
+[20:24:52] [Server thread/INFO]: SimonPro74 joined the game
