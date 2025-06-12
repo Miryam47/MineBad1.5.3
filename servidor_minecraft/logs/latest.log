@@ -1045,3 +1045,34 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:31:32] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
 [20:31:32] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [20:31:32] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:36:39] [Server thread/INFO]: Villager class_1646['Unemployed'/26027, l='ServerLevel[world]', x=2851.30, y=113.00, z=-8746.71] died, message: 'Unemployed was slain by Zombie'
+[20:38:03] [Worker-Main-1/WARN]: Skipping Entity with id 
+[20:38:03] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=96, y=-12, z=-79}
+[20:38:03] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=96, y=-12, z=-77}
+[20:38:03] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=98, y=-11, z=-77}
+[20:39:35] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20:42:03] [Server thread/INFO]: Villager class_1646['Fisherman'/34234, l='ServerLevel[world]', x=2409.93, y=-65.00, z=-8876.01] died, message: 'Fisherman was killed'
+[20:42:07] [Server thread/INFO]: Villager class_1646['Fletcher'/34346, l='ServerLevel[world]', x=2385.37, y=-65.00, z=-8871.24] died, message: 'Fletcher was killed'
+[20:42:07] [Server thread/INFO]: Villager class_1646['Fletcher'/34347, l='ServerLevel[world]', x=2385.84, y=-65.00, z=-8869.29] died, message: 'Fletcher was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Farmer'/34403, l='ServerLevel[world]', x=2381.70, y=-65.00, z=-8892.50] died, message: 'Farmer was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Cartographer'/34404, l='ServerLevel[world]', x=2378.70, y=-65.00, z=-8871.43] died, message: 'Cartographer was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Leatherworker'/34405, l='ServerLevel[world]', x=2378.70, y=-65.00, z=-8872.52] died, message: 'Leatherworker was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Cartographer'/34406, l='ServerLevel[world]', x=2379.39, y=-65.00, z=-8872.03] died, message: 'Cartographer was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Farmer'/34409, l='ServerLevel[world]', x=2377.51, y=-65.00, z=-8896.30] died, message: 'Farmer was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Farmer'/34410, l='ServerLevel[world]', x=2377.51, y=-65.00, z=-8896.70] died, message: 'Farmer was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Farmer'/34407, l='ServerLevel[world]', x=2382.22, y=-65.00, z=-8903.36] died, message: 'Farmer was killed'
+[20:42:12] [Server thread/INFO]: Villager class_1646['Farmer'/34408, l='ServerLevel[world]', x=2381.29, y=-65.00, z=-8903.43] died, message: 'Farmer was killed'
+[20:44:18] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[20:44:18] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[20:48:43] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=247, y=-11, z=-115}
+[20:50:25] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
+[20:52:42] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 2962.500000, 100.000000, -8691.500000]
+[20:52:48] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
+[20:56:02] [Server thread/INFO]: badbalta was killed
+[20:56:02] [Server thread/INFO]: [badbalta: Killed badbalta]
+[20:58:41] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
+[21:01:02] [Server thread/INFO]: SimonPro74 has made the advancement [The Parrots and the Bats]
+[21:01:08] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[21:01:32] [Server thread/INFO]: badbalta was killed
+[21:01:32] [Server thread/INFO]: [badbalta: Killed badbalta]
+[21:04:43] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 2962.500000, 100.000000, -8691.500000]
