@@ -1745,3 +1745,19 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:08:55] [Server thread/INFO]: badbalta was shot by Skeleton
 [23:12:47] [Server thread/INFO]: [Not Secure] <SimonPro74> W
 [23:23:46] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:30:25] [Server thread/INFO]: SimonPro74 fell from a high place
+[23:30:42] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
+[23:39:05] [Server thread/INFO]: Villager class_1646['Cartographer'/152652, l='ServerLevel[world]', x=1266.70, y=-65.00, z=-9256.43] died, message: 'Cartographer was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Fletcher'/152653, l='ServerLevel[world]', x=1273.37, y=-65.00, z=-9256.24] died, message: 'Fletcher was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Fletcher'/152654, l='ServerLevel[world]', x=1273.84, y=-65.00, z=-9254.29] died, message: 'Fletcher was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Leatherworker'/152655, l='ServerLevel[world]', x=1266.70, y=-65.00, z=-9257.52] died, message: 'Leatherworker was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Cartographer'/152657, l='ServerLevel[world]', x=1267.39, y=-65.00, z=-9257.03] died, message: 'Cartographer was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Farmer'/152660, l='ServerLevel[world]', x=1269.70, y=-65.00, z=-9277.50] died, message: 'Farmer was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Farmer'/152663, l='ServerLevel[world]', x=1270.22, y=-65.00, z=-9288.36] died, message: 'Farmer was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Farmer'/152664, l='ServerLevel[world]', x=1269.29, y=-65.00, z=-9288.43] died, message: 'Farmer was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Farmer'/152665, l='ServerLevel[world]', x=1265.51, y=-65.00, z=-9281.30] died, message: 'Farmer was killed'
+[23:39:05] [Server thread/INFO]: Villager class_1646['Farmer'/152666, l='ServerLevel[world]', x=1265.51, y=-65.00, z=-9281.70] died, message: 'Farmer was killed'
+[23:43:52] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 3068.500000, 127.000000, -8530.500000]
+[23:45:00] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[23:45:00] [Server thread/INFO]: SimonPro74 left the game
+[23:45:00] [Server thread/WARN]: handleDisconnection() called twice
