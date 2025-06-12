@@ -1076,3 +1076,18 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:01:32] [Server thread/INFO]: badbalta was killed
 [21:01:32] [Server thread/INFO]: [badbalta: Killed badbalta]
 [21:04:43] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 2962.500000, 100.000000, -8691.500000]
+[21:07:23] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[21:07:23] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[21:07:23] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[21:07:23] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[21:07:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:07:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:07:36] [Worker-Main-5/WARN]: Empty or non-existent pool: minecraft:
+[21:07:36] [Server thread/INFO]: Villager class_1646['Butcher'/56179, l='ServerLevel[world]', x=3005.59, y=-65.00, z=-9100.34] died, message: 'Butcher was killed'
+[21:07:40] [Server thread/INFO]: Villager class_1646['Fletcher'/55830, l='ServerLevel[world]', x=2971.51, y=-1.44, z=-8874.47] died, message: 'Fletcher suffocated in a wall'
+[21:07:47] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[21:08:07] [Server thread/INFO]: Villager class_1646['Cartographer'/56115, l='ServerLevel[world]', x=3023.51, y=-1.44, z=-8848.47] died, message: 'Cartographer suffocated in a wall'
+[21:09:27] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[21:09:27] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[21:09:27] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[21:09:27] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
