@@ -8776,6 +8776,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/tall_jungle_door": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 21:57:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"

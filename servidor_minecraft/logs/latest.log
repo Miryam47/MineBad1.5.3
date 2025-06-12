@@ -1237,3 +1237,86 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:52:53] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=-118, y=-12, z=15}
 [21:52:54] [Server thread/INFO]: Villager class_1646['Farmer'/96767, l='ServerLevel[world]', x=2894.95, y=-65.00, z=-7556.23] died, message: 'Farmer was killed'
 [21:52:54] [Server thread/INFO]: Villager class_1646['Farmer'/96771, l='ServerLevel[world]', x=2870.23, y=-65.00, z=-7554.05] died, message: 'Farmer was killed'
+[21:59:05] [Server thread/INFO]: Villager class_1646['Cartographer'/93419, l='ServerLevel[world]', x=2957.50, y=-9.44, z=-7815.50] died, message: 'Cartographer suffocated in a wall'
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:59:56] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:59:56] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=7, y=-52, z=-56}
+[22:00:02] [Server thread/INFO]: Villager class_1646['Cartographer'/99850, l='ServerLevel[world]', x=2893.49, y=-65.00, z=-7525.69] died, message: 'Cartographer was killed'
+[22:00:02] [Server thread/INFO]: Villager class_1646['Cartographer'/99851, l='ServerLevel[world]', x=2892.78, y=-65.00, z=-7525.99] died, message: 'Cartographer was killed'
+[22:00:03] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=-11, z=-113}
+[22:00:03] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=204, y=-11, z=-110}
+[22:00:04] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[22:00:04] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[22:00:04] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[22:00:04] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[22:00:40] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:00:45] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[22:01:36] [Server thread/WARN]: SimonPro74 moved too quickly! 10.00407890252427,0.0,-1.4398020221469778
+[22:03:13] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:03:13] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:03:13] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:03:13] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:03:13] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:03:50] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=15, y=-40, z=-499}
+[22:03:50] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=15, y=-40, z=-503}
+[22:04:02] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:02] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:02] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:02] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:02] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:43] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:04:43] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:04:43] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:04:43] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:04:43] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:04:59] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:05:03] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:05:03] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:05:03] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[22:05:08] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[22:05:13] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[22:06:08] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:06:22] [Server thread/INFO]: Villager class_1646['Farmer'/103487, l='ServerLevel[world]', x=3602.78, y=-65.00, z=-7255.64] died, message: 'Farmer was killed'
+[22:06:22] [Server thread/INFO]: Villager class_1646['Farmer'/103488, l='ServerLevel[world]', x=3603.71, y=-65.00, z=-7255.57] died, message: 'Farmer was killed'
+[22:06:22] [Server thread/INFO]: Villager class_1646['Farmer'/103489, l='ServerLevel[world]', x=3607.49, y=-65.00, z=-7262.70] died, message: 'Farmer was killed'
+[22:06:22] [Server thread/INFO]: Villager class_1646['Farmer'/103490, l='ServerLevel[world]', x=3607.49, y=-65.00, z=-7262.30] died, message: 'Farmer was killed'
+[22:06:22] [Server thread/INFO]: Villager class_1646['Farmer'/103495, l='ServerLevel[world]', x=3603.30, y=-65.00, z=-7266.50] died, message: 'Farmer was killed'
+[22:06:27] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[22:06:44] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[22:06:44] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[22:06:48] [Worker-Main-6/WARN]: Skipping Entity with id 
+[22:06:48] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=96, y=-12, z=-79}
+[22:06:48] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=96, y=-12, z=-77}
+[22:06:48] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=98, y=-11, z=-77}
+[22:07:07] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[22:07:08] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=22, y=-11, z=-129}
+[22:07:08] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=22, y=-11, z=-115}
