@@ -1761,3 +1761,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:45:00] [Server thread/INFO]: SimonPro74 lost connection: Timed out
 [23:45:00] [Server thread/INFO]: SimonPro74 left the game
 [23:45:00] [Server thread/WARN]: handleDisconnection() called twice
+[23:52:11] [Server thread/INFO]: SimonPro74[/100.90.218.55:49848] logged in with entity id 161252 at (3082.293307918835, 135.25220334025371, -8535.115065994596)
+[23:52:11] [Server thread/INFO]: Loading config from file...
+[23:52:11] [Server thread/INFO]: SimonPro74 joined the game
+[23:54:33] [Server thread/INFO]: Villager class_1646['Librarian'/155750, l='ServerLevel[world]', x=715.70, y=110.00, z=-8665.51] died, message: 'Librarian was slain by badbalta using [Drevol Nâr]'
+[23:54:51] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
