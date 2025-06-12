@@ -7900,6 +7900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-06-12 00:29:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-12 00:00:48 +0000"
@@ -8086,6 +8092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-06-12 00:40:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_shingle_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-06-12 00:03:55 +0000"
@@ -8218,9 +8230,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-06-12 00:29:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-12 00:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-06-12 00:40:02 +0000"
     },
     "done": true
   },
