@@ -8644,6 +8644,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-12 00:50:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-06-12 00:03:55 +0000"
