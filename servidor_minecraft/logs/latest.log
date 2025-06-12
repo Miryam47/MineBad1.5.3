@@ -1092,3 +1092,23 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:09:27] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
 [21:09:27] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
 [21:23:51] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[21:27:12] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=247, y=-11, z=-115}
+[21:27:19] [Server thread/INFO]: Villager class_1646['Leatherworker'/68382, l='ServerLevel[world]', x=3205.50, y=-65.00, z=-8580.30] died, message: 'Leatherworker was killed'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:27:54] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=-11, z=-113}
+[21:27:54] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=204, y=-11, z=-110}
+[21:28:31] [Server thread/INFO]: Villager class_1646['Armorer'/71935, l='ServerLevel[world]', x=3371.28, y=-65.00, z=-8812.25] died, message: 'Armorer was killed'
+[21:28:34] [Server thread/INFO]: Villager class_1646['Fisherman'/72115, l='ServerLevel[world]', x=3387.99, y=-65.00, z=-8734.93] died, message: 'Fisherman was killed'
+[21:28:35] [Server thread/INFO]: Villager class_1646['Fisherman'/72177, l='ServerLevel[world]', x=3387.99, y=-65.00, z=-8812.93] died, message: 'Fisherman was killed'
+[21:28:39] [Server thread/INFO]: Villager class_1646['Fisherman'/72435, l='ServerLevel[world]', x=3392.93, y=-65.00, z=-8789.01] died, message: 'Fisherman was killed'
+[21:28:52] [Server thread/INFO]: Villager class_1646['Fisherman'/73128, l='ServerLevel[world]', x=3418.93, y=-65.00, z=-8789.01] died, message: 'Fisherman was killed'
+[21:34:31] [Server thread/INFO]: SimonPro74 has made the advancement [A breath of fresh air]
