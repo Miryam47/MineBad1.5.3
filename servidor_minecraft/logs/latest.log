@@ -1740,3 +1740,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:27:59] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [290, -455], pos: class_2339{x=4640, y=64, z=-7278}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
 [22:27:59] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [290, -455], pos: class_2339{x=4640, y=64, z=-7272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
 [22:28:13] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
+[22:50:59] [Server thread/INFO]: badbalta has completed the challenge [Cover Me in Debris]
