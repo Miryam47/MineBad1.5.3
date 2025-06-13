@@ -807,3 +807,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [15:30:15] [Server thread/INFO]: Start loading plugin from Jade
 [15:30:15] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [15:30:15] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15:50:51] [Server thread/INFO]: SimonPro74[/100.90.218.55:52852] logged in with entity id 154 at (734.4265378813119, 95.0, -8293.88606670456)
+[15:50:51] [Server thread/INFO]: Loading config from file...
+[15:50:51] [Server thread/INFO]: SimonPro74 joined the game
+[15:51:54] [Server thread/WARN]: SimonPro74 moved too quickly! -4.772453388721033,0.9929624345250403,8.768581659744086
+[15:52:17] [Server thread/INFO]: [Not Secure] [Server] hola
