@@ -822,3 +822,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:59:41] [Server thread/INFO]: [Not Secure] [Server] hola
 [20:59:59] [Server thread/INFO]: SimonPro74 tried to swim in lava
 [21:05:27] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[21:19:06] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[21:19:06] [Server thread/INFO]: SimonPro74 left the game
+[21:19:18] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:25:18] [Server thread/INFO]: [Not Secure] [Server] rrre
