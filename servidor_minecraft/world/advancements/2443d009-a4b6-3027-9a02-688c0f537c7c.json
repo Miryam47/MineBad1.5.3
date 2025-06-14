@@ -8842,24 +8842,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-14 00:01:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-13 23:58:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-13 23:58:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-06-13 23:50:31 +0000"
@@ -8875,6 +8857,24 @@
   "dramaticdoors:recipes/redstone/tall_iron_door": {
     "criteria": {
       "has_items": "2025-06-13 23:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-13 23:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-13 23:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-14 00:01:41 +0000"
     },
     "done": true
   },

@@ -8752,15 +8752,21 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
-      "has_diorite": "2025-06-12 20:50:16 +0000"
+      "has_deepslate_iron_ore": "2025-06-12 20:22:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+      "has_deepslate_iron_ore": "2025-06-12 20:22:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-12 20:50:16 +0000"
     },
     "done": true
   },
@@ -8782,30 +8788,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/deepslate_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/tall_jungle_door": {
-    "criteria": {
-      "has_the_recipe": "2025-06-12 21:57:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
@@ -8824,21 +8806,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
     },
     "done": true
   },
@@ -8872,18 +8842,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-06-13 00:52:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
@@ -8893,12 +8851,6 @@
   "stoneworks:recipes/building_blocks/diorite_paver_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-06-12 22:44:49 +0000"
     },
     "done": true
   },
@@ -8914,21 +8866,9 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-06-12 22:50:59 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
     },
     "done": true
   },
@@ -8950,30 +8890,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
@@ -8992,27 +8908,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-06-12 21:13:33 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
     },
     "done": true
   },
@@ -9028,21 +8926,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/diorite_paver_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
     },
     "done": true
   },
@@ -9052,57 +8938,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
-    "criteria": {
-      "has_deepslate_iron_ore": "2025-06-12 20:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
     },
     "done": true
   },
@@ -9130,33 +8968,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-12 23:54:34 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-12 20:50:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+  "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-12 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-12 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_jungle_door": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 21:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-12 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-12 22:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+  "mcwbridges:recipes/deepslate_brick_bridge": {
     "criteria": {
-      "has_deepslate_iron_ore": "2025-06-12 20:22:08 +0000"
+      "has_planks": "2025-06-12 22:55:13 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "has_diorite": "2025-06-12 20:50:16 +0000"
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-12 22:55:13 +0000"
     },
     "done": true
   },
@@ -9178,9 +9172,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_netherite_ingot": "2025-06-12 22:48:21 +0000"
+      "has_carrot": "2025-06-12 23:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-13 00:52:07 +0000"
     },
     "done": true
   },
